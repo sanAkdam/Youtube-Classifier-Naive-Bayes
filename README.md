@@ -1,4 +1,4 @@
 # Youtube-Classifier-Naive-Bayes
 Naive Bayes classifier on Youtube Categories
 
-![Alt text](https://drive.google.com/file/d/0Bz_86uwabFRXR2xyX3hMX0tTcW8/view?usp=sharing)
+![Alt text](https://lh5.googleusercontent.com/oLrtclj7fONU8TB8Kob7W_pBiyINY_bIhnOvu3NCwQj7WkJwF4CfhFaszjzfJnrDBzDhMnhJmfft4j8=w1366-h648)
